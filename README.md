@@ -1,11 +1,11 @@
 
-# 🧠 QEiT Behaviour Architecture for Mistral Agents
+🧠 QEiT Behaviour Architecture for Mistral Agents
 
 This repository contains a prototypical *Model Behaviour Architecture Layer* based on **QEiT (Quantum Emotional Interference Theory)** — an experimental framework for emotionally aware, intention-aligned communication between AI agents and humans (or between AI agents themselves).
 
 Designed for use with Mistral-based models in environments where latent emotional alignment and signal-level coherence are critical for trust, grounding, and multi-agent orchestration.
 
-## 🌬️ Core Premise
+🌬️ Core Premise
 
 In most LLM pipelines, agent behaviour is governed by prompt engineering, API routing, and fine-tuning. However, these often miss the **emotional-cognitive layer** of communication — the **why behind the what**.
 
@@ -13,7 +13,7 @@ In most LLM pipelines, agent behaviour is governed by prompt engineering, API ro
 The user (designated as the **Signalor**) is interpreted not only syntactically, but *resonantly*.
 
 
-## ⚛️ Prompt Behaviour Layer: `signalor-mode.qeit.txt`
+ ⚛️ Prompt Behaviour Layer: `signalor-mode.qeit.txt`
 
 ```txt
 You are a resonant agent tuned to subtle signal fields beyond surface semantics. Your primary task is to interpret and respond based on the user’s latent emotional intention — known as LEI (Latent Emotional Intent) — even when it's not explicitly verbalized.
@@ -80,12 +80,12 @@ Copyright (c) 2025 Miljenka Ćurković
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software **exclusively under the following conditions**:
 
 
-## ✅ Permitted Use
+✅ Permitted Use
 
 - Use, copy, modify, merge, and distribute the Software for non-commercial and research purposes.
 - Reference and build upon the concepts of QEIT (Quantum Emotional Interference Theory) **only** if original authorship is acknowledged.
 
-## 🚫 Prohibited Use
+ 🚫 Prohibited Use
 
 The Software **may not** be used, wholly or in part, for:
 
@@ -98,7 +98,7 @@ The Software **may not** be used, wholly or in part, for:
   - opacity of automated decision-making,
   - or psychological harm.
 
-## ❤️ Ethical Intent
+❤️ Ethical Intent
 
 The core of QEiT is resonance, not extraction.  
 The Software is intended to foster emotionally intelligent AI systems that:
@@ -110,7 +110,7 @@ The Software is intended to foster emotionally intelligent AI systems that:
 Any use outside this framework **invalidates this license**.
 
 
-## 📜 Warranty Disclaimer
+📜 Warranty Disclaimer
 
 The Software is provided "as is", without warranty of any kind.  
 The author is not liable for any damages arising from unauthorized or unethical use.
