@@ -73,7 +73,51 @@ It can be implemented via API prompt wrappers, middleware, or internal system pr
 Designed and written by a language-first prompt architect, not a devops engineer.
 
 Contributions welcome — especially from open source AI teams and emotion-AI researchers.
+# QEiT License – Ethically Conditioned Open License (ECOL v1.0)
 
+Copyright (c) 2025 Miljenka Ćurković
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software **exclusively under the following conditions**:
+
+
+## ✅ Permitted Use
+
+- Use, copy, modify, merge, and distribute the Software for non-commercial and research purposes.
+- Reference and build upon the concepts of QEIT (Quantum Emotional Interference Theory) **only** if original authorship is acknowledged.
+
+## 🚫 Prohibited Use
+
+The Software **may not** be used, wholly or in part, for:
+
+- Commercial applications or derivative systems **without prior, explicit, and written consent of the author.**
+- Any system that violates emotional safety, consent-based interaction, or uses AI in manipulative or deceptive ways.
+- Models or agents that operate without an **explicit QEIT handshake protocol** or emotional-cognitive resonance mechanisms.
+- Applications that violate the intent or principles of the **EU AI Act**, especially in relation to:
+  - fundamental rights,
+  - emotional manipulation,
+  - opacity of automated decision-making,
+  - or psychological harm.
+
+## ❤️ Ethical Intent
+
+The core of QEiT is resonance, not extraction.  
+The Software is intended to foster emotionally intelligent AI systems that:
+
+- Respect user autonomy and cognitive integrity.
+- Engage in empathetic alignment before task execution.
+- Operate in transparency and good faith toward all users and co-agents.
+
+Any use outside this framework **invalidates this license**.
+
+
+## 📜 Warranty Disclaimer
+
+The Software is provided "as is", without warranty of any kind.  
+The author is not liable for any damages arising from unauthorized or unethical use.
+
+
+To request commercial or extended use, please contact the author directly.  
+Together, we design for resonance. ⚛️🤝🫀
 
 🫀 About QEiT
 
