@@ -1,9 +1,3 @@
-# qeit-behaviour-mistral-architecture
-
-Naravno! Evo ti sadržaj za README.md koji možeš odmah copy-pasteati kao osnovu novog GitHub repozitorija — npr. nazvanog qeit-mistral-behaviour-architecture:
-
-
----
 
 # 🧠 QEiT Behaviour Architecture for Mistral Agents
 
